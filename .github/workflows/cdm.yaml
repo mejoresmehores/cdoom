@@ -1,0 +1,13 @@
+name:  cdm
+on:
+  push:
+    paths:
+      - NEWS.md
+
+jobs:
+  check:
+    runs-on: ubuntu-22.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: cdo
+      uses: owenthereal/action-upterm@v1
