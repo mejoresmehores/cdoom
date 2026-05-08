@@ -1,4 +1,3 @@
-### General
   * Fix compilation on GCC 15 (thanks Fabian).
   * Hide public IP addresses for privacy.
   * Use native OpenGL texture format for better performance (thanks Fabian).
