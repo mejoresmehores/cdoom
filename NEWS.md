@@ -1,4 +1,3 @@
-  * Hide public IP addresses for privacy.
   * Use native OpenGL texture format for better performance (thanks Fabian).
   * Improved directory handling on Windows (thank Roman Fomin):
       * Fixes problems with postfix "." for non-relative paths.
