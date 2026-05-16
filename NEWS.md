@@ -1,4 +1,3 @@
-  * Use native OpenGL texture format for better performance (thanks Fabian).
   * Improved directory handling on Windows (thank Roman Fomin):
       * Fixes problems with postfix "." for non-relative paths.
       * Support for long NTFS paths (up to 32768 characters).
