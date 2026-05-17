@@ -1,4 +1,3 @@
-      * Fixes problems with postfix "." for non-relative paths.
       * Support for long NTFS paths (up to 32768 characters).
   * Fixed metainfo files for latest AppStream spec compliance (thanks Fabian).
   * Add option to enable or disable smooth pixel scaling (thanks StevenSYS).
