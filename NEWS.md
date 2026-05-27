@@ -1,4 +1,3 @@
-  * Add option to enable or disable smooth pixel scaling (thanks StevenSYS).
   * Allow spaces in GUS patch folder path (thanks Michael Day).
   * Add support for non-US backslash key (thanks Michael Day).
   * Never let SDL Mixer use native midi on Windows (thanks Michael Day).
