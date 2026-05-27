@@ -1,4 +1,3 @@
-  * Fixed metainfo files for latest AppStream spec compliance (thanks Fabian).
   * Add option to enable or disable smooth pixel scaling (thanks StevenSYS).
   * Allow spaces in GUS patch folder path (thanks Michael Day).
   * Add support for non-US backslash key (thanks Michael Day).
