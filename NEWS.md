@@ -1,4 +1,3 @@
-  * Add support for non-US backslash key (thanks Michael Day).
   * Never let SDL Mixer use native midi on Windows (thanks Michael Day).
   * Use $TMPDIR to find tempdir on Unix (thanks Mr. Myth).
   * Improve man page formatting (thanks g-branden-robinson).
