@@ -1,4 +1,3 @@
-  * Use $TMPDIR to find tempdir on Unix (thanks Mr. Myth).
   * Improve man page formatting (thanks g-branden-robinson).
 
 ### Build systems
