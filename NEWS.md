@@ -1,4 +1,3 @@
-  * Improve man page formatting (thanks g-branden-robinson).
 
 ### Build systems
   * Can now be built with Emscripten (thanks James Baicoianu).
