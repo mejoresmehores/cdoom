@@ -1,4 +1,3 @@
-
 ### Setup
   * Use correct EGA palette colors (thanks Henrique Jorge).
 
