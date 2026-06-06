@@ -1,4 +1,3 @@
-  * Misc. improvements (thanks suve, Emmanuel Ferdman, Gabriele Simoni, et al.)
 
 ### Setup
   * Use correct EGA palette colors (thanks Henrique Jorge).
