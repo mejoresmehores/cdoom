@@ -1,4 +1,3 @@
-  * Use correct EGA palette colors (thanks Henrique Jorge).
 
 ### Doom
   * Initial support for Doom version 1.5 (thanks Michael Francis).
