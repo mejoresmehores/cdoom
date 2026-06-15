@@ -1,4 +1,3 @@
-  * Initial support for Doom version 1.5 (thanks Michael Francis).
 
 ### Heretic
   * Fix crash after loading too many saved games (thanks Noseey).
