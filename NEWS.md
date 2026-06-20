@@ -1,4 +1,3 @@
-  * Fix crash after loading too many saved games (thanks Noseey).
 
 ### Hexen
   * Fix crash with Heresiarch fireballs if player has never touched a wall (thank Noseey).
