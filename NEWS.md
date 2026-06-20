@@ -1,4 +1,3 @@
-### Heretic
   * Fix crash after loading too many saved games (thanks Noseey).
 
 ### Hexen
