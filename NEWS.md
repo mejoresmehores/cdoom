@@ -1,4 +1,3 @@
-### Hexen
   * Fix crash with Heresiarch fireballs if player has never touched a wall (thank Noseey).
 
 ### Strife
