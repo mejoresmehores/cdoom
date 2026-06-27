@@ -1,4 +1,3 @@
-  * Fix crash with Heresiarch fireballs if player has never touched a wall (thank Noseey).
 
 ### Strife
   * Initialize floor->type and floor->crush fields in EV_BuildStairs() (thanks Fabian).
