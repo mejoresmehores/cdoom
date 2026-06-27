@@ -1,4 +1,3 @@
-
 ### Strife
   * Initialize floor->type and floor->crush fields in EV_BuildStairs() (thanks Fabian).
 
