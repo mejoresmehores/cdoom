@@ -1,4 +1,3 @@
-  * Initialize floor->type and floor->crush fields in EV_BuildStairs() (thanks Fabian).
 
 ## 3.1.0 (2024-08-01)
 
