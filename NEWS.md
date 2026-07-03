@@ -1,4 +1,3 @@
-## 3.1.0 (2024-08-01)
 
 ### General
   * Drag and drop loading of WAD, Dehacked and demo files is now supported on
