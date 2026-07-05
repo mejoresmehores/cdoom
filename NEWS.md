@@ -1,4 +1,3 @@
-### General
   * Drag and drop loading of WAD, Dehacked and demo files is now supported on
     Windows - simply drag the files onto chocolate-doom.exe (thanks Fabian).
   * WAD file autoloading was added - WAD and DEH files can be copied into
