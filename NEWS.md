@@ -1,4 +1,3 @@
-  * WAD file autoloading was added - WAD and DEH files can be copied into
     an autoload folder to be automatically included on every game start.
   * Music pack configuration has been significantly simplified. By simply
     copying .flac/.ogg music files into a folder they will be automatically
