@@ -1,4 +1,3 @@
-    copying .flac/.ogg music files into a folder they will be automatically
     detected by filename and used.
   * Music packs can now be used with OPL as a fallback, and music pack
     config files can have any name ending in '.cfg'.
