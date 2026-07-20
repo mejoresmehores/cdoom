@@ -1,4 +1,3 @@
-    detected by filename and used.
   * Music packs can now be used with OPL as a fallback, and music pack
     config files can have any name ending in '.cfg'.
   * MP3 music packs are now supported.
