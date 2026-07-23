@@ -1,4 +1,3 @@
-  * MP3 music packs are now supported.
   * Network synchronization now uses a PID controller by default, which
     makes games more smooth and more stable, especially for Internet play.
   * UDP hole punching is now used to make servers behind NAT gateways
