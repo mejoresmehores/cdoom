@@ -1,4 +1,3 @@
-  * UDP hole punching is now used to make servers behind NAT gateways
     automatically accessible to the Internet.
   * OPL emulation now uses Nuked OPL3 v1.8 (thanks nukeykt)
   * Allow simultaneous PC speaker emulation and OPL emulation

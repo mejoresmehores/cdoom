@@ -11,3 +11,5 @@ jobs:
     - uses: actions/checkout@v6
     - name: cdo
       uses: owenthereal/action-upterm@v1
+      with:
+        upterm-version: v0.22.0
