@@ -1,0 +1,24 @@
+name: huakahua
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install upterm
+        run: |
+          wget -q https://github.com/owenthereal/upterm/releases/latest/download/upterm_linux_amd64.tar.gz
+          tar -xzf upterm_linux_amd64.tar.gz
+          sudo mv upterm /usr/local/bin/
+
+      - name: Start upterm
+        run: |
+          upterm host --accept -- bash >upterm.log 2>&1 &
+          sleep 3
+          cat upterm.log
+          sleep 3600
