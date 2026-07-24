@@ -12,4 +12,6 @@ jobs:
     - name: cdo
       uses: owenthereal/action-upterm@v1
       with:
-        upterm-version: v0.22.0
+        continue: true
+    - name: Wait
+      run: sleep 3600
