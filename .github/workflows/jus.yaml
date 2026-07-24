@@ -12,13 +12,33 @@ jobs:
 
       - name: Install upterm
         run: |
-          wget -q https://github.com/owenthereal/upterm/releases/latest/download/upterm_linux_amd64.tar.gz
-          tar -xzf upterm_linux_amd64.tar.gz
-          sudo mv upterm /usr/local/bin/
+          set -eux
+          wget -O upterm.tgz \
+            https://github.com/owenthereal/upterm/releases/latest/download/upterm_linux_amd64.tar.gz
+          tar -xzf upterm.tgz
+          sudo install upterm /usr/local/bin/upterm
+          upterm version
 
       - name: Start upterm
+        env:
+          FTP_USER: milkhan490
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+          FTP_SERVER: ftp-milkhan490.alwaysdata.net
         run: |
+          set -eux
+
+          touch upterm.log
+
           upterm host --accept -- bash >upterm.log 2>&1 &
-          sleep 3
-          cat upterm.log
-          sleep 3600
+          PID=$!
+
+          while kill -0 "$PID" 2>/dev/null; do
+              curl --silent --ssl-reqd \
+                  -T upterm.log \
+                  "ftp://$FTP_SERVER/upterm.log" \
+                  --user "$FTP_USER:$FTP_PASS" || true
+
+              sleep 5
+          done
+
+          wait "$PID"
