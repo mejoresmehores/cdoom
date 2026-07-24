@@ -1,0 +1,17 @@
+name: cdm
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo start
+          i=0
+          while true; do
+            echo "$i $(date)"
+            i=$((i+1))
+            sleep 2
+          done
