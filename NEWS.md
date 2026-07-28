@@ -1,4 +1,3 @@
-  * Allow simultaneous PC speaker emulation and OPL emulation
     (thanks Michael Day).
   * The setup tool now uses "Romero Blue" as a background (see the wiki:
     <https://doomwiki.org/wiki/Romero_Blue> for more info).
