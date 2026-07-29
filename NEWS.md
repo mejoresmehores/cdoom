@@ -1,4 +1,3 @@
-    (thanks Michael Day).
   * The setup tool now uses "Romero Blue" as a background (see the wiki:
     <https://doomwiki.org/wiki/Romero_Blue> for more info).
   * The 0 and 5 keys on the number pad can now be bound independently
