@@ -1,4 +1,3 @@
-  * The 0 and 5 keys on the number pad can now be bound independently
     of any other keyboard key (thanks BlooD2ool).
   * With aspect ratio correction disabled, the game can scale to any
     arbitrary size and remove all black borders in full screen mode.
