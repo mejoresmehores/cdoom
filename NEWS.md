@@ -1,4 +1,3 @@
-  * With aspect ratio correction disabled, the game can scale to any
     arbitrary size and remove all black borders in full screen mode.
     (thanks chungy)
   * The executable's location is now checked when looking for IWADs.
