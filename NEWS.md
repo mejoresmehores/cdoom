@@ -1,4 +1,3 @@
-  * The executable's location is now checked when looking for IWADs.
   * The IWAD files installed by Steam-on-Linux are now detected (thanks
     chungy).
   * It's now possible to use `-response` to load response files.
