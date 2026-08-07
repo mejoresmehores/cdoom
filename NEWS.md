@@ -1,4 +1,3 @@
-  * It's now possible to use `-response` to load response files.
   * Default savegame name now includes the WAD filename (thanks Fabian).
   * Mouse movement is no longer read when the game window is inactive
     (thanks Julia Nechaevskaya).
