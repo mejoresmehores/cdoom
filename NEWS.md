@@ -1,4 +1,3 @@
-  * Default savegame name now includes the WAD filename (thanks Fabian).
   * Mouse movement is no longer read when the game window is inactive
     (thanks Julia Nechaevskaya).
   * Chocolate Doom now by default generates a "pet name" for the user
