@@ -1,4 +1,3 @@
-    (thanks Julia Nechaevskaya).
   * Chocolate Doom now by default generates a "pet name" for the user
     to respect privacy (thanks Jon!)
   * The Freedoom single-player IWAD files are now officially supported,
