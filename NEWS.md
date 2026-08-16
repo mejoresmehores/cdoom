@@ -1,4 +1,3 @@
-    since recent versions changed all levels to be vanilla compatible.
   * Add native support for the FluidSynth midi synthesizer.
   * Add a fsynth_gain config key to fine tune the FluidSynth output level
     (thanks Fabian).
