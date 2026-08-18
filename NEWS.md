@@ -1,4 +1,3 @@
-  * Add native support for the FluidSynth midi synthesizer.
   * Add a fsynth_gain config key to fine tune the FluidSynth output level
     (thanks Fabian).
   * Redesign of native MIDI support in Windows (thanks ceski and Roman Fomin):
