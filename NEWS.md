@@ -1,4 +1,3 @@
-    (thanks Fabian).
   * Redesign of native MIDI support in Windows (thanks ceski and Roman Fomin):
     - Emulates DMX MPU-401 feature set by default, change with
       `winmm_complevel`.
