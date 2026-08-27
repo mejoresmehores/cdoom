@@ -1,4 +1,3 @@
-  * Redesign of native MIDI support in Windows (thanks ceski and Roman Fomin):
     - Emulates DMX MPU-401 feature set by default, change with
       `winmm_complevel`.
     - MIDI device reset between songs using "GM System On", change with
