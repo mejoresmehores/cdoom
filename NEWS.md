@@ -1,4 +1,3 @@
-      `winmm_complevel`.
     - MIDI device reset between songs using "GM System On", change with
       `winmm_reset_type`.
     - Configurable delay after reset for legacy MIDI hardware (e.g. Roland
