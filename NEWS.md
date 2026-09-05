@@ -1,4 +1,3 @@
-      `winmm_reset_type`.
     - Configurable delay after reset for legacy MIDI hardware (e.g. Roland
       SC-55), change with `winmm_reset_delay`.
   * Add improved gamepad support via the SDL\_GameController interface. This
