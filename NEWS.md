@@ -1,4 +1,3 @@
-      SC-55), change with `winmm_reset_delay`.
   * Add improved gamepad support via the SDL\_GameController interface. This
     includes support for analog triggers, modern dual-stick default bindings
     (based on Unity Doom), descriptive button names for common controller types
