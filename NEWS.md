@@ -1,4 +1,3 @@
-    includes support for analog triggers, modern dual-stick default bindings
     (based on Unity Doom), descriptive button names for common controller types
     and configurable dead zones for stick axes. (Michael Day).
   * All games now have shiny new icons!
