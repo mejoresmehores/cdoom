@@ -1,4 +1,3 @@
-    (based on Unity Doom), descriptive button names for common controller types
     and configurable dead zones for stick axes. (Michael Day).
   * All games now have shiny new icons!
   * The -display parameter was added to specify the display number on which to show the screen (thanks Robin Emeršič).
